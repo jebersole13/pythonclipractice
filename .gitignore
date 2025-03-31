@@ -1,12 +1,9 @@
-# Virtual environments
+# Virtual environment files
 venv/
 .venv/
 env/
-
-# Byte-compiled files
+Lib/
+Scripts/
+pyvenv.cfg
 __pycache__/
 *.py[cod]
-
-# Dependency directories
-*.egg-info/
-.pytest_cache/
